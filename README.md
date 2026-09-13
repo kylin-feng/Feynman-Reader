@@ -233,3 +233,6 @@ GitHub 自动生成的 [Contributors](https://github.com/HachikoJ/Feynman-Reader
 [![Star History Chart](https://api.star-history.com/svg?repos=HachikoJ/Feynman-Reader&type=Date)](https://star-history.com/#HachikoJ/Feynman-Reader&Date)
 
 [返回顶部](#top)
+
+
+_Forked to kylin-feng at 2026-09-13 via proxy 127.0.0.1:7897 (Clash Verge)._
